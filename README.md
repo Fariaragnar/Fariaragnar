@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fariaragnar/Fariaragnar/main/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+  <img src="https://via.placeholder.com/600x400" />
 </p>
 
 <p align="center">
@@ -9,9 +9,10 @@
 </p>
 
 <div align="center" style="margin-bottom: 100px;">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Fariaragnar&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-Fariaragnar.vercel.app/api/top-langs/?username=Fariaragnar&show_icons=true&theme=radical&layout=compact" />
+  <img width="55%" src="https://via.placeholder.com/400x200" />
+  <img width="40%" src="https://via.placeholder.com/300x200" />
 </div>
+
 
 
  &nbsp;
