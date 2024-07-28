@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.
+  "Transitioning into front-end development, I find daily motivation at the intersection of creativity and technology. My passion for crafting engaging digital experiences drives my commitment to explore and master the latest tools and trends in this dynamic tech field.".
 </p>
 
 <div align="center" style="margin-bottom: 100px;">
