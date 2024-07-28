@@ -10,7 +10,7 @@
 
 <div align="center" style="margin-bottom: 100px;">
   
-  <img width="207" height="44.89" src="https://github-readme-stats.vercel.app/api?username=Fariaragnar&show_icons=true&theme=radical" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Fariaragnar&show_icons=true&theme=radical" />
 </div>
 
  &nbsp;
